@@ -3,6 +3,8 @@ It is a simple paint in the Java language , I did in September 2015 by pastime w
 
 The app is in this folder , the name is "PaintApp.jar"
 To run it you have to install the Java Platform
+
+
 In this app you can:
 - draw , change the shape or the color of the pen
 - change the background (Black or White)
