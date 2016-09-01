@@ -1,7 +1,7 @@
 
-It is a simple paint in the Java language , I did in September 2015 by temp password when I was in time of holidays ( I worked in the same time in order to save money).
+It is a simple paint in the Java language , I did in September 2015 by pastime when I was in time of holidays ( I worked in the same time in order to save money).
 
-The app is in this folder "PaintApp.jar"
+The app is in this folder , the name is "PaintApp.jar"
 To run it you have to install the Java Platform
 In this app you can:
 - draw , change the shape or the color of the pen
